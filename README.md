@@ -6,6 +6,11 @@ Currently para.site latches on to Facebook, Instagram, Google Places, and Bandca
 ## Free Usage Documentation
 Free usage of the para.site system is access to sub-domain websites and requires manual refreshing of the cached site otherwise cache TTL is one month. The sub-domain naming convention goes like so:
 
-`SN_UID`.`SN`.para.site/`path`
+`SN_UID`.`SN`.para.site/`PG`/`PA`
 
-SN_UID: Social Network
+
+
+`SN_UID` : Social Network User ID
+`SN` : Social Network (Default 'fb')
+`PG` : Page
+`PA` : Page Argument
