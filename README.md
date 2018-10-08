@@ -14,9 +14,11 @@ http://339150749455906.fb.para.site
 
 Kinda ugly, but no sweat, just point a domain CNAME to it because it wont change.
 
-Don't want to use a domain name? Well if the para.site uses Facebook and has a username set, then this url is much better:
+Don't want to use a domain name? Well if the para.site uses Facebook and has a Facebook username set, then use the username instead of the account ID:
 
 http://pepsi.fb.para.site
+
+Note: If you plan in pointing a CNAME domain to it, use the ID URL not tge username, as the ID never chamges.
 
 Even better, you can <a href="http://para.site/alias">reserve aliases</a> for free, first come first serve. For example, if Pepsi reserves the alias 'pepsi' and wants to point it to there Facebook para.site, then the URL will look like this:
 
