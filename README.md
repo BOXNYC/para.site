@@ -8,9 +8,9 @@ Free usage of the para.site system is access to sub-domain websites and requires
 
 `SN_UID`.`SN`.para.site/`PG`/`PA`
 
-
-
+<u>Keys</u>
 `SN_UID` : Social Network User ID  
 `SN` : Social Network (Default 'fb')  
 `PG` : Page  
-`PA` : Page Argument  
+`PA` : Page Argument
+
