@@ -27,7 +27,6 @@ http://pepsi.para.site
 
 
 Keys  
-====
 `SN_UID` : Social Network User ID  
 `SN` : Social Network (Default 'fb')  
 `PG` : Page  
